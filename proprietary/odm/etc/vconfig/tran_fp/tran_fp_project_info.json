@@ -1,0 +1,22 @@
+{
+    "checksum"         :3485169825,
+    "tran_project_name":"X6857",
+    "tran_project_id"  :1,
+    "tran_fp_spi_num"  :1,
+    "tran_fp_type"     :"POWER_BUTTON",
+    "vendors_in_total" :1,
+    "tran_vendor1"     :"GOODIX_GF3976",
+    "tran_vendor2"     :"NN",
+    "tran_vendor3"     :"NN",
+    "tran_vendor4"     :"NN",
+    "tran_fp_display_module_name1":"NN",
+    "tran_fp_display_module_name2":"NN",
+    "tran_fp_display_ic_name1":"NN",
+    "tran_fp_offset_x1"     :"NN",
+    "tran_fp_offset_y1"     :"NN",
+    "tran_fp_display_ic_name2":"NN",
+    "tran_fp_offset_x2"     :"NN",
+    "tran_fp_offset_y2"     :"NN",
+    "tran_fp_load_ta_from_odm_path":1,
+    "tran_fp_use_old_uuid":1
+}

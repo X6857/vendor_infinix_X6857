@@ -1,0 +1,5 @@
+service vendor.hardware.tranled-service /vendor/bin/hw/vendor.hardware.tranled-service
+        interface aidl vendor.hardware.tranled.ITranLed/default
+        class hal
+        user system
+        group system

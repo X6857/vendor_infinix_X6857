@@ -1,0 +1,39 @@
+{
+    "checksum": 1273059555,
+        "config":    {
+            "version" : 1020250403,
+            "normal_cfg": {
+                "enable_fake_detect": 0,
+                "support_key_mode": 1,
+                "support_key_mode_set_down_frist": 1,
+                "support_sweep_enroll": 1,
+                "reserved1": 0,
+                "reserved2": 0,
+                "reserved3": 0,
+                "reserved4": 0,
+                "reserved5": 0,
+                "reserved6": 0,
+                "reserved7": 0,
+                "reserved8": 0,
+                "reserved9": 0,
+                "reserved10": 0
+            },
+            "factory_cfg": {
+                "minTestCaptureImageQuality": 15,
+                "minTestCaptureImageArea": 65,
+                "maxBadPixelShortStreakNum": 52,
+                "maxBadPointCount": 35,
+                "maxLocalBadPointCount": 8,
+                "reserved1": 0,
+                "reserved2": 0,
+                "reserved3": 0,
+                "reserved4": 0,
+                "reserved5": 0,
+                "reserved6": 0,
+                "reserved7": 0,
+                "reserved8": 0,
+                "reserved9": 0,
+                "reserved10": 0
+            }
+        }
+}

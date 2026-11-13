@@ -1,0 +1,7 @@
+#USD:modify for third battery x6856 20250904 start
+service fuelgauged /vendor/bin/fuelgauged
+    class core
+    user system
+    group system
+    disabled
+#USD:modify for third battery x6856 20250904 end
